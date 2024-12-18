@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(214, 7, 7);
+}
+#Site1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 729px;
+    width: 1000px;
+    background-color: white;
+    margin-top: -8px;
+    margin-bottom: -8px;
+    background-color: white;
+}
