@@ -6,10 +6,12 @@ body {
 }
 #Site1 {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    justify-content: space-evenly;
     align-items: center;
     height: 729px;
     width: 1000px;
+    font-size: 30px;
     background-color: white;
     margin-top: -8px;
     margin-bottom: -8px;
