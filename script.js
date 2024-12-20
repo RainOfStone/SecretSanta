@@ -253,7 +253,7 @@ function PBTextChanger(){
     }
     if (count == 8) {
         PBText.style.fontSize = '16px'
-        PBText.textContent = "Credits: Dialog writers: Hsr lore writers, Website Creator: Santa, Actors: Pineapple as pineapple, Bread as bread, Smiski lifting as .5 head, Matteo as disgusted young man, Happy Feet as yellow emoji with grippers on full display, Kaedee as Menacing young girl (Please don't show her this 🙏 she'll kill me 💀)"
+        PBText.textContent = "Credits: Dialog writers: Hsr lore writers, Website Creator: Santa, Actors: Pineapple as pineapple, Bread as bread, Smiski lifting as .5 head, Matteo as disgusted young man, Happy Feet as yellow emoji with grippers out on full display, Kaedee as Menacing young girl (Please don't show her this 🙏 she'll kill me 💀)"
         PB_Btn.textContent = 'continue'
     }
     if (count == 9) {
@@ -270,7 +270,7 @@ PineappleBtn.className = 'pb2'
 Bread.className = 'pb'
 BreadBtn.className = 'pb2'
 Pineapple.textContent = 'Choose Pineapple with a chance to "win."'
-PineappleBtn.textContent = 'take a chance.'
+PineappleBtn.textContent = 'Take a chance.'
 Bread.textContent = 'Choose Bread.'
 BreadBtn.textContent = 'Give up.'
 let Choice
